@@ -7,6 +7,7 @@ public class GuessGame {
     public static void main(String[] args) {
 
         // TODO
+        Random random = new Random();
 
     }
 }
