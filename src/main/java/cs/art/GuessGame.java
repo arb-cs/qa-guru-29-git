@@ -8,7 +8,5 @@ public class GuessGame {
         System.out.println("Hello! This is a simple guess game.");
 
         // TODO
-        Random random = new Random();
-
     }
 }
